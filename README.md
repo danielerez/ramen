@@ -115,3 +115,8 @@ stable releases yet.
 ## Licensing
 
 Ramen is under the [Apache 2.0 license.](LICENSES/Apache-2.0.txt)
+
+## Forked docs-only e2e skip test
+
+This temporary documentation change verifies that a docs-only pull request
+from a fork receives an automatic e2e skip status.
